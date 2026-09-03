@@ -1,8 +1,12 @@
-# List
-- CIA triad
-- NIST CSF
+**ID:** 202609030031
+**Tags:** #index #framework #controls
+**Related Notes:** [[Security frameworks]], [[Security controls]], [[CIA triad]], [[NIST CSF]]
 
-# Links
-[[Cybersecurity MOC]], [[Security frameworks]], [[Security controls]], [[CIA triad]], [[NIST CSF]]
+---
 
-#index
+## Core Frameworks & Models
+* [[CIA triad]]: Foundational model balancing Confidentiality, Integrity, and Availability.
+* [[NIST CSF]]: Standard voluntary framework for identifying, protecting, detecting, responding, to and recovering from risks.
+
+## References
+* Source: Google Cybersecurity Course - Frameworks & Controls

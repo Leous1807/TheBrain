@@ -1,20 +1,19 @@
-# [[Title: Concept Name]]
 **ID:** {{YYYYMMDDHHMM}}
 **Tags:** #concept #domain #cybersecurity
-**Related Notes:** [[Link to parent/broader concept]], [[Link to related tool or attack]]
+**Related Notes:** [[Link to MOC or parent domain]], [[Link to related framework or tool]]
 
 ---
 
 ## Overview
-A concise, 1-2 sentence definition in your own words.
+A concise, 1-2 sentence definition written in your own words.
 
-## Key Mechanics / How It Works
-* Step 1 or core mechanism
-* Step 2 or core mechanism
+## Key Mechanics & Principles
+* Core component or operational rule 1
+* Core component or operational rule 2
 
 ## Security Impact & Context
-* **Threat/Risk:** What vulnerability does this address or introduce?
-* **Mitigation/Defense:** How is it secured or prevented?
+* **Threat/Risk:** What primary vulnerability or risk does this address or introduce?
+* **Mitigation/Defense:** How is this concept applied to protect organizational assets?
 
 ## References
-* Source: Google Cybersecurity Course - Module X / Lesson Y
+* Source: Google Cybersecurity Course - Course X / Module Y

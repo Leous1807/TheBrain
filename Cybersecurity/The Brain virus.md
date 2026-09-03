@@ -1,8 +1,19 @@
-# Description
-In 1986 this program was developed to track illegal software and prevent pirated software. Once a computer was infected any disk inserted in the computer would also be infected and once an infected disk was used on a computer, the computer would become infected too. in a couple of months the virus infected computers around the wold, and although its intention was not destroying hardware or data it slowed productivity  caused a lot of financial harm. This attack emphasized on the need for security and productivity plans.
+**ID:** 202609030034
+**Tags:** #attack-vector #history #malware #virus
+**Related Notes:** [[Computer virus]], [[Examples of malware attacks]], [[Malware]]
 
+---
 
-# Links
-[[Cybersecurity MOC]], [[Examples of malware attacks]]
+## Threat Description
+Created in 1986, Brain is recognized as the first computer virus for IBM PC compatible systems. Originally created by two brothers to track and prevent illegal copying of medical software, it spread globally beyond control.
 
-#example
+## Execution Path & Attack Mechanics
+1. **Infection Mechanism:** Targeted MS-DOS boot sectors on 5.25" floppy disks.
+2. **Propagation:** When an infected disk was inserted into a machine, the virus loaded into memory and infected every subsequent uninfected disk inserted.
+3. **Payload Impact:** Did not destroy data intentionally, but degraded system memory, slowed productivity, and caused widespread disruption.
+
+## Prevention & Remediation
+* Highlighted the critical necessity for proactive anti-malware protections, operational continuity planning, and authorized software management.
+
+## References
+* Source: Google Cybersecurity Course - History of Cybersecurity

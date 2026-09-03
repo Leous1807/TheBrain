@@ -1,13 +1,16 @@
-# Definition
-These are skills that require **knowledge** of specific industry **tools** and **procedures**.
+**ID:** 202609030033
+**Tags:** #concept #careers #skills
+**Related Notes:** [[Transferable skills]], [[Security analyst]], [[Common security job titles]]
 
-###  Useful technical skills in cybersecurity
-- Programming languages
-- Security information and event management (SIEM) tools
-- Computer forensics
+---
 
+## Overview
+Technical skills in cybersecurity refer to practical expertise in using specialized industry software, tools, environments, and technical protocols.
 
-# Links
-[[Cybersecurity MOC]], [[Common security job titles]]
+## Core Cybersecurity Technical Skills
+* **Programming & Scripting:** Writing automation scripts or analyzing malware using C++, Python, Bash, or SQL.
+* **SIEM Tools:** Monitoring and analyzing security telemetry in platforms like Splunk or Chronicle.
+* **Computer Forensics & Packet Analysis:** Investigating memory dumps, disk artifacts, and analyzing network traffic with tools like Wireshark.
 
-#concept #example
+## References
+* Source: Google Cybersecurity Course - Course 1

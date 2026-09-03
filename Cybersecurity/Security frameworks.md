@@ -1,19 +1,22 @@
-# Definition
-Security frameworks are **guidelines** used for **building plans** to help **mitigate risks** to **data** and **privacy**. Security frameworks enable us to structurally create and maintain a security lifecycle.
+# [[Security frameworks]]
+**ID:** 202609030026
+**Tags:** #concept #framework #governance
+**Related Notes:** [[NIST CSF]], [[Security controls]], [[Security lifecycle]], [[PII]]
 
-### Purpose of security frameworks
-- Protecting PII
-- Securing financial information
-- Identifying security weaknesses
-- Managing organizational risks
-- Aligning security with business goals
+---
 
-### Components of security frameworks
-1. Identifying and documenting security goals
-2. Setting guidelines to achieve security goals
-3. Implementing security processes
-4. Monitoring and communicating results
-# Links
-[[Cybersecurity MOC]], [[Security controls]], [[Security lifecycle]], [[PII]], [[Specific security controls and frameworks]]
+## Overview
+Security frameworks are structured guidelines and best practices used to plan, implement, and maintain an organization's overall cybersecurity lifecycle and risk management posture.
 
-#index #concept
+## Purpose & Scope
+* Protecting sensitive data assets, including [[PII]] and financial metrics.
+* Identifying organizational vulnerabilities and aligning security objectives with core business goals.
+
+## Implementation Steps
+1. **Goal Identification:** Define and document strategic security goals.
+2. **Guideline Development:** Establish clear operational rules to achieve targets.
+3. **Execution:** Deploy necessary technical and administrative processes.
+4. **Monitoring:** Continuously audit, review, and communicate results to stakeholders.
+
+## References
+* Source: Google Cybersecurity Course - Frameworks & Controls
