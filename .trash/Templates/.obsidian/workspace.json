@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "80da1961b1396be5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e340f65c8be5abdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f2557bc1012cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Book Search Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2_Book Search Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83797628f7312071",
+    "type": "split",
+    "children": [
+      {
+        "id": "25bc11ffbb223637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9f73a1f2c7cf362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cead1b43580cd9f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4559009232e5bb6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c2f8a8917b8acc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0453563ccaaded97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b52b17dc520a6c97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2_Book Search Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "09edc3278a75db51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2_Book Search Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "40b27386b2d1ec88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "22ee98f11c3a27d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2b92eb7f60ecec72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_Book Search Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "83f2557bc1012cd9",
+  "lastOpenFiles": [
+    "1_Fleeting Template.md",
+    "2_Book Template.md",
+    "x5_Table Snippet.md",
+    "x5_Quotes Random Snippet.md",
+    "x5_Quotes List Snippet.md",
+    "x5_Index Snippet.md",
+    "x5_Glossary Snippet.md",
+    "x5_Dictionary Snippet.md",
+    "x5_Bibliography Snippet.md",
+    "x4_Post Tags Snippet.md",
+    "x4_E-book Back Matter Snippet.md",
+    "x3_Front Matter Snippet.md",
+    "x3_Back Matter Snippet.md",
+    "x2_Book Front Matter Snippet.md",
+    "Templates.md",
+    "5_Structure Template.md",
+    "5_OKR Template.md",
+    "5_Meeting Notes Template.md",
+    "5_Exploration Template.md",
+    "5_BuJo - Weekly Log.md",
+    "5_BuJo - Monthly Log.md",
+    "5_BuJo - Future Log.md",
+    "5_BuJo - Daily Log.md",
+    "4_Post Template.md",
+    "4_Comment Template.md",
+    "4_Book Template.md"
+  ]
+}
