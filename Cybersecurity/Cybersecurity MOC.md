@@ -1,41 +1,56 @@
-# Links
-[[Asset]]
-[[Asset security]]
-[[CIA triad]]
-[[CISSP]]
-[[Common security job titles]]
-[[Communication and network security]]
-[[Computer virus]]
-[[Cybersecurity]]
-[[Examples of malware attacks]]
-[[Firewall]]
-[[GDPR]]
-[[Identity and access management]]
-[[Identity theft]]
-[[Inside threat]]
-[[Malware]]
-[[NIST CSF]]
-[[Outside threat]]
-[[PII]]
-[[Phishing]]
-[[Security analyst]]
-[[Security and risk management]]
-[[Security architecture and engineering]]
-[[Security assessment and testing]]
-[[Security controls]]
-[[Security frameworks]]
-[[Security lifecycle]]
-[[Security operations]]
-[[Software development security]]
-[[Social engineering]]
-[[Specific security controls and frameworks]]
-[[SPII]]
-[[Technical skills]]
-[[The Brain virus]]
-[[The Equifax breach]]
-[[The Loveletter attack]]
-[[The Morris worm]]
-[[Threat actor]]
-[[Transferable skills]]
+**ID:** 202609030001
+**Tags:** #index #moc #cybersecurity
 
-#index
+---
+
+## Core Concepts
+* [[Cybersecurity]]
+* [[Asset]]
+* [[CIA triad]]
+
+## Frameworks & Domains
+* [[CISSP]]
+  * [[Security and risk management]]
+  * [[Asset security]]
+  * [[Security architecture and engineering]]
+  * [[Communication and network security]]
+  * [[Identity and access management]]
+  * [[Security assessment and testing]]
+  * [[Security operations]]
+  * [[Software development security]]
+* [[Security frameworks]]
+* [[Specific security controls and frameworks]]
+* [[NIST CSF]]
+
+## Threats & Vulnerabilities
+* [[Threat actor]]
+  * [[Inside threat]]
+  * [[Outside threat]]
+* [[Malware]]
+  * [[Computer virus]]
+* [[Social engineering]]
+  * [[Phishing]]
+* [[Identity theft]]
+  * [[PII]]
+  * [[SPII]]
+
+## Technical Controls & Tools
+* [[Security controls]]
+* [[Firewall]]
+
+## Compliance & Governance
+* [[GDPR]]
+* [[Security lifecycle]]
+
+## Incident Case Studies
+* [[Examples of malware attacks]]
+  * [[The Brain virus]]
+  * [[The Morris worm]]
+  * [[The Loveletter attack]]
+  * [[The Equifax breach]]
+
+## Career & Skills
+* [[Common security job titles]]
+  * [[Security analyst]]
+* [[Technical skills]]
+* [[Transferable skills]]

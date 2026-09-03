@@ -1,14 +1,18 @@
-# Definition
-is the process of ensuring **confidentiality**, **integrity** and **availability** of information by protecting data, devices and networks
+**ID:** 202609030002
+**Tags:** #concept #core #cybersecurity
+**Related Notes:** [[CIA triad]], [[Threat actor]], [[Common security job titles]]
 
-# Benefits of security teams
-- Security teams protect organizations from **inside** and **outside** threats.
-- Security teams help the organization to meet **regulatory compliance**. This may help the organization to avoid **fines** and **audits** while also helping them to meet their **ethical responsibilities** towards the **customer**.
-- Security teams may also help with **productivity** by making sure that everyone can still **do their jobs** even during a **data breach**.
-- They also may help **reducing costs** by **lowering** **security risks**.
-- Security teams can also help to **maintain the brand trust** and **protect** the organizations **image and benefits** in **long term**.
+---
 
-# Links
-[[Cybersecurity MOC]], [[Threat actor]], [[Common security job titles]]
+## Overview
+Cybersecurity is the practice of protecting networks, devices, and data from unauthorized access or malicious harm, ensuring the overall confidentiality, integrity, and availability of information.
 
-#concept
+## Key Benefits of Security Teams
+* **Threat Defense:** Protects organizations from both [[Inside threat]] and [[Outside threat]] actors.
+* **Regulatory Compliance:** Ensures compliance with frameworks (e.g., [[GDPR]]), helping avoid regulatory fines, mandatory audits, and legal liability.
+* **Business Continuity:** Maintains organizational productivity during an incident or [[The Equifax breach|data breach]].
+* **Cost Reduction:** Lowers operational and recovery expenses by proactively mitigating risks before exploitation occurs.
+* **Brand Protection:** Maintains public trust, brand reputation, and long-term customer goodwill.
+
+## References
+* Source: Google Cybersecurity Course - Foundations of Cybersecurity
