@@ -1,4 +1,3 @@
-# [[Security lifecycle]]
 **ID:** 202609030027
 **Tags:** #concept #governance #cybersecurity
 **Related Notes:** [[Security frameworks]], [[Security and risk management]], [[NIST CSF]]

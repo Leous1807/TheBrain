@@ -1,4 +1,3 @@
-# [[Security operations]]
 **ID:** 202609030028
 **Tags:** #concept #domain #cissp #soc
 **Related Notes:** [[CISSP]], [[Security analyst]], [[Cybersecurity MOC]]

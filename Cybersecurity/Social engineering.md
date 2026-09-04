@@ -1,4 +1,3 @@
-# [[Social engineering]]
 **ID:** 202609030029
 **Tags:** #concept #threat #social-engineering
 **Related Notes:** [[Phishing]], [[Identity theft]], [[Inside threat]]

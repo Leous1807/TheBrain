@@ -1,4 +1,3 @@
-# [[Security frameworks]]
 **ID:** 202609030026
 **Tags:** #concept #framework #governance
 **Related Notes:** [[NIST CSF]], [[Security controls]], [[Security lifecycle]], [[PII]]

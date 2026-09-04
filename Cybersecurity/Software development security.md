@@ -1,4 +1,3 @@
-# [[Software development security]]
 **ID:** 202609030030
 **Tags:** #concept #domain #cissp #devsecops
 **Related Notes:** [[CISSP]], [[Security architecture and engineering]], [[Cybersecurity MOC]]

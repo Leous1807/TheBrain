@@ -1,4 +1,3 @@
-# [[Security assessment and testing]]
 **ID:** 202609030024
 **Tags:** #concept #domain #cissp #auditing
 **Related Notes:** [[CISSP]], [[Security controls]], [[Security analyst]]
