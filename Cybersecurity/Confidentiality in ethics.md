@@ -1,6 +1,6 @@
 **ID:** 202609041048
 **Tags:** #concept #ethics #data-privacy
-**Related Notes:** [[Cybersecurity MOC]], [[CIA triad]], [[Security ethics]], [[Privacy protection]], [[PII]]
+**Related Notes:** [[CIA triad]], [[Security ethics]], [[Privacy protection]], [[PII]]
 
 ---
 

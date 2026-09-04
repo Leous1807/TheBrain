@@ -41,6 +41,10 @@
 ## Compliance & Governance
 * [[GDPR]]
 * [[Security lifecycle]]
+* [[Security ethics]]
+  - [[Confidentiality in ethics]]
+  - [[Privacy protection]]
+  - [[Laws in cybersecurity]]
 
 ## Incident Case Studies
 * [[Examples of malware attacks]]
