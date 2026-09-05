@@ -21,3 +21,16 @@ and also pull an additional card from the deck and put it face down near your ma
 put your victory marker on the 0 space and your income marker on the 10 place
 
 then shuffle the character cards and put them down on the designated place randomly
+
+there are two eras:
+- the canal era
+- the rail era
+
+each era is devided into several rounds and during each round each player will play a single turn
+players turn are based on the order of their character card
+
+during the first round each player can do a single action and in the rest of the turns they can do 2 actions
+
+actions:
+- build actions: you first discard a card into your discard pile, there are location cards, wild location cards, industry cards and wild industry cards, wild cards won't go into your personal discard pile but into the designated place, then you need to take one of your industry tiles, always you should choose the lowest level availale and based on the half moons on the left of the tiles, during the canal era each player can at most have a single token on a 
+- 
